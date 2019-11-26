@@ -1,0 +1,5 @@
+abiri el cmd
+cd C:\Users\2-user\Documents\karina-erick-final
+git add .
+git commit -m "cambio 1"
+git push origin master
